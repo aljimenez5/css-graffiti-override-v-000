@@ -1,8 +1,8 @@
 /* write your override styles here */
 .tag-1 {
-  diplay: none;
+  display: none;
 }
 
-div#tag-2 {
-  diplay: none;
+#tag-2 {
+  display: none;
 }
