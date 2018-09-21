@@ -19,7 +19,7 @@ div#wall #tag-2 {
   display: none;
 }
 
-.parent div:first-child div#tag-6 {
+.parent div:last-child div#tag-6 {
   display: none;
 }
 
